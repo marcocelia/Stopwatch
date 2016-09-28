@@ -1,0 +1,1 @@
+Stopwatch: Implementation of a stopwatch in the STM32F4-Discovery Board under Erika RTOS. There are two different implementation, one was hand-written and the other uses the code automatically generated from Matlab-Simulink. The high modularity of the system allows switching among the two implementation simply commenting or uncommenting few lines of the source code.
